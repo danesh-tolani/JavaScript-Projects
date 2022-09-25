@@ -148,6 +148,10 @@
 
 ![Output](./Pic13.png)
 
+### My Output
+
+![Code](./Completd/Problem7.2.jpg)
+
 8. Webiste Name: [Google](https://www.google.com/)
 
 ### Topics
